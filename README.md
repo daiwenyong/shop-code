@@ -1,2 +1,2 @@
 # shop-code
-shop
+shop-code
